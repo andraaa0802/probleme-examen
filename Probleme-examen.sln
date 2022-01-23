@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4 numere in ordine", "4 num
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nr prime", "Nr prime\Nr prime.csproj", "{5F56D18B-D55F-4902-8347-A9EC3D700009}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "secventa", "secventa\secventa.csproj", "{9E842D27-87D4-4F22-BC74-C8ADCB9661A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5F56D18B-D55F-4902-8347-A9EC3D700009}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F56D18B-D55F-4902-8347-A9EC3D700009}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F56D18B-D55F-4902-8347-A9EC3D700009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E842D27-87D4-4F22-BC74-C8ADCB9661A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E842D27-87D4-4F22-BC74-C8ADCB9661A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E842D27-87D4-4F22-BC74-C8ADCB9661A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E842D27-87D4-4F22-BC74-C8ADCB9661A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
